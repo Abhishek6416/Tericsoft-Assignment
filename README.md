@@ -8,7 +8,11 @@ If any user want to use this website they have to create their account and they 
 
 # Features
 Login & Signup (JWT & And hashing the password)
+
+
 BMI Calculator
+
+
 History Check
 Profile details view
 Logout
